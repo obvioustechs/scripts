@@ -1,0 +1,7 @@
+{
+    "skipUsers": [
+        "doesntNeedMFA1@example.com",
+        "doesntNeedMFA2@example.com",
+        "etc."
+    ]
+}
