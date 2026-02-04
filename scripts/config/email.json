@@ -1,4 +1,4 @@
 {
-    "from": "noreply@<tenant>.com",
+    "from": "automatedscript@<tenant>.com",
     "to": "helpdesk@obvioustechs.com"
 }
